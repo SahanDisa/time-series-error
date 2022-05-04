@@ -1,0 +1,12 @@
+{
+  "name": "time-series-error",
+  "version": "2.0.2",
+  "description": "Time Series Error Evaluation Metrics ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sahan Dissanayaka",
+  "license": "ISC",
+  "keywords": ["time-series","error-metrics","machine-learning"]
+}
