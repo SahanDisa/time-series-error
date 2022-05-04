@@ -19,13 +19,13 @@ Recommended Release: 2.0.2
 Provides the direction of the error. Better forecasts yields MFE near to zero. Doesn't identify extreme errors.
 Easily identify data transformation and observation scale.
 
-### Mean Squared Error
+### Mean Squared Error (MSE)
 #### mse(real_data_values, forecasted_data_values)
 
 Provides overall idea of the error. Better forecasts yields MSE close to zero. Resolve not penalizing the xtereme errors by MFE.
 Sensitive to observations scale and data transformations.
 
-### Root Mean Sqaured Error
+### Root Mean Sqaured Error (RMSE)
 #### rmse(real_data_values, forecasted_data_values)
 
 Provides rooted error value of mse. Shows significance of the balanced error.
