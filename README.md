@@ -3,7 +3,7 @@
 This node package consists with basic time series error evaluation metric implementation in js.
 You can use this package for any machine learning model evaluation other than the time series secnarios.
 
-Recommended Release: 2.0.2
+Recommended Release: 2.0.4
 
 ## How to use
 
@@ -55,7 +55,7 @@ Resolved the asymmetric of MAPE. Error persent as a percentage. This error origi
 ## Example
 
 ```
-var myerror = require('@sahandisa/tserror');
+var myerror = require('time-series-error');
 
 a = [1.78,3.76,6.78,9.0]
 b = [1.65,3.80,6.10,9.5]

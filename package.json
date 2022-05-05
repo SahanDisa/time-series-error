@@ -1,6 +1,6 @@
 {
   "name": "time-series-error",
-  "version": "2.0.2",
+  "version": "2.0.4",
   "description": "Time Series Error Evaluation Metrics ",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,12 @@
   },
   "author": "Sahan Dissanayaka",
   "license": "ISC",
-  "keywords": ["time-series","error-metrics","machine-learning"]
+  "keywords": [
+    "time-series",
+    "error-metrics",
+    "machine-learning"
+  ],
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
