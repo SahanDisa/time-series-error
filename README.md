@@ -3,7 +3,7 @@
 This node package consists with basic time series error evaluation metric implementation in js.
 You can use this package for any machine learning model evaluation other than the time series secnarios.
 
-Recommended Release: 2.0.4
+Recommended Release: 2.0.5
 
 ## How to use
 
