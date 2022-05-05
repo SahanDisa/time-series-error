@@ -1,12 +1,16 @@
 {
   "name": "time-series-error",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "Time Series Error Evaluation Metrics ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sahan Dissanayaka",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SahanDisa/time-series-error.git"
+},
   "license": "ISC",
   "keywords": [
     "time-series",

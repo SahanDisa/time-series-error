@@ -19,6 +19,6 @@ jobs:
           node-version: '16'
           registry-url: 'https://registry.npmjs.org'
       - name: Publish package on NPM 📦
-        run: npm publish --tag github
+        run: npm publish --tag latest
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
