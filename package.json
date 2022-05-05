@@ -14,6 +14,5 @@
     "machine-learning"
   ],
   "dependencies": {
-    "nodemon": "^2.0.16"
   }
 }
